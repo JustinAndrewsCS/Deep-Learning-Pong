@@ -19,7 +19,7 @@ University.
 - Java
 - SCRUM
 
-[Back to the Top](#Deep Learning Pong)
+[Back to the Top](#Deep-Learning-Pong)
 
 ---
 
@@ -34,7 +34,7 @@ All files must be downloaded to the same file location then run MainMenu.java. J
 - Select the game type
 - Use the help menu for how to play and use the application
 
-[Back to the Top](#Deep Learning Pong)
+[Back to the Top](#Deep-Learning-Pong)
 
 ---
 
@@ -50,4 +50,4 @@ All files must be downloaded to the same file location then run MainMenu.java. J
 
 - Jessica Voyt - SCRUM Master (Graduate student, did not contribute to the code)
 
-[Back to the Top](#Deep Learning Pong)
+[Back to the Top](#Deep-Learning-Pong)
